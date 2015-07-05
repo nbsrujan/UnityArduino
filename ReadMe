@@ -1,0 +1,6 @@
+Arduino folder contains two files
+  1. analogSerial - sends input Analog value of A0 pin
+  2. pushbuttonSerial - sends integer value 1 or 2 corresponding to 8 or 9th pin respectively
+assets folder contains three files
+  1. CubeMove.cs  - Moves cube forward or backward corresponding to button event of Arduino
+  2. CubeRotateAnalog.cs  - Rotates cube corresponds to analog value
